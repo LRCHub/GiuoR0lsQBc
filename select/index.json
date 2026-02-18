@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "涙、ふわり。",
+  "base_artist": "Jams Collection",
+  "createdAt": "2026-02-18T03:46:56.984407Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "涙、ふわり。",
+      "artist": "Jams Collection",
+      "has_synced": false,
+      "path": "select/pl_01_涙、ふわり。_Jams_Collection.txt"
+    }
+  ]
+}
